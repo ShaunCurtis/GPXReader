@@ -110,5 +110,5 @@ The project looks like this:
 
 Run the project with a breakpoint set and explore the created `data` object.
 
-![data view](./images/object-local.png)
+![data view](./images/Object-Local.png)
 
