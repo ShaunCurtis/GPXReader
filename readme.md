@@ -1,6 +1,6 @@
 # A Quick Way to Read XML Files with a Definition File into DotNetCore Objects
 
-There are plenty of articles on the web showing you how to serialize/Deserialize XML - some good, but most regurgitation of the same basic content.  I'm not going to do that here.  Almost nobody covers how to do it quickly in scenarios where you have a XSD definition file.
+There are plenty of articles on the web showing you how to serialize/Deserialize XML - some good, but most regurgitation of the same basic content.  I'm not going to do that here.  Almost nobody covers how to do it quickly in scenarios where you have an XSD definition file.
 
 
 To demonstrate the process we're going to import GPX files.  These are XML formatted files with a *gpx* extension.  [The detailed XSD definition is here](https://www.topografix.com/GPX/1/1/).
